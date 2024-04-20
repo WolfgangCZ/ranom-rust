@@ -1,0 +1,1 @@
+rustc main.rs && Remove-Item ./main.pdb && ./main.exe
